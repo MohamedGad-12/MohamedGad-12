@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gamal</h1>
-<h3 align="center">Student at 🌟Faculty Of Engineering, ASU, Egypt🌟</h3>
-
-
-
-- 🌱 I’m currently learning Embedded Systems and AUTOSAR
-
-- 📫 How to reach me *mohamedabdof603@gmail.com*
-
-- ⚡ Fun fact: My family and friends are the reasons to live.
+<h3 align="center">Software Engineer </h3>
 
 <br>
 
